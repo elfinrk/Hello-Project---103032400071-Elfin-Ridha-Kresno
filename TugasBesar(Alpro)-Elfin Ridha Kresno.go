@@ -1,3 +1,5 @@
+// Edited by Elfin Ridha Kresno - 103032400071
+
 package main
 
 import "fmt"
